@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "jF24YNc9Huuk/VtXyohmqlrRG23llpAL9rR4zaoigbS/LY8knxDXyWsIUlgIQ260WkhHXv+JuxoVypXCvZoorg==",
+  "dgSpecHash": "oRwiuo1Lf4duaCqqJruocNmfxX4HGd+qUoCCdkM6rQ0nHusWVUwKFbz+Sd1NEv+JuqDD9Tr7vFlk+m34b8G9BQ==",
   "success": true,
   "projectFilePath": "D:\\visualWorkspace\\AlogrithmPractice\\AlogrithmPractice.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\dtnha\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\dtnha\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\dtnha\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\dtnha\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

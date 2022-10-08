@@ -1,0 +1,15 @@
+D:\visualWorkspace\AlogrithmPractice\bin\Debug\net6.0\AlogrithmPractice.exe
+D:\visualWorkspace\AlogrithmPractice\bin\Debug\net6.0\AlogrithmPractice.deps.json
+D:\visualWorkspace\AlogrithmPractice\bin\Debug\net6.0\AlogrithmPractice.runtimeconfig.json
+D:\visualWorkspace\AlogrithmPractice\bin\Debug\net6.0\AlogrithmPractice.dll
+D:\visualWorkspace\AlogrithmPractice\bin\Debug\net6.0\AlogrithmPractice.pdb
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.csproj.AssemblyReference.cache
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.AssemblyInfoInputs.cache
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.AssemblyInfo.cs
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.csproj.CoreCompileInputs.cache
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.dll
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\refint\AlogrithmPractice.dll
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.pdb
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\AlogrithmPractice.genruntimeconfig.cache
+D:\visualWorkspace\AlogrithmPractice\obj\Debug\net6.0\ref\AlogrithmPractice.dll

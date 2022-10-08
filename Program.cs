@@ -1,24 +1,25 @@
-﻿using System.Collections.Generic;
+﻿using AlogrithmPractice;
+using System.Collections.Generic;
 
 namespace ConsoleApp1
 {
 
     internal class Program
     {
-        public int Solve(int n, int k, int[] a)
+        static void DisplayList<T>(T[] array)
         {
-            for (int i = 0; i < k; i++)
+            foreach (T item in array)
             {
-                if (a[i] == 1)
-                {
-                    return 1;
-                }
+                Console.Write($"{item}  ");
             }
-            return 0;
+            Console.WriteLine();
         }
         static void Main(string[] args)
         {
-
+            int[] array = {5,1,1};
+            Solution6.NextPermutation(array);
+            DisplayList<int>(array);
+            //Console.WriteLine(Solution5.Generate(5));
         }
     }
 }
