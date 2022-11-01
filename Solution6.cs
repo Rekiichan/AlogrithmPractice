@@ -10,8 +10,8 @@ namespace AlogrithmPractice
     {
         public static void NextPermutation(int[] nums)
         {
-			try
-			{
+            try
+            {
                 if (nums.Length == 2)
                 {
                     (nums[0], nums[1]) = (nums[1], nums[0]);
@@ -35,8 +35,8 @@ namespace AlogrithmPractice
                     Array.Sort(nums, i + 1, nums.Length - (i + 1));
                 }
             }
-			catch (Exception)
-			{
+            catch (Exception)
+            {
                 Array.Sort(nums);
             }
         }
